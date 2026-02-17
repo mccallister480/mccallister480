@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Charles Mccallister 👋
 
-<!--
-**mccallister480/mccallister480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Software Engineer with a Computer Science background and strong experience in Python, AI model evaluation, data annotation, and visualization.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- JavaScript
+- TypeScript
+- Data Visualization
+- AI Model Training & Evaluation
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- Python Data Visualization Projects
+- AI Annotation & Evaluation Tools
+- Automation Scripts
+
+## 🚀 Interests
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Open Source
+
+## 📫 Contact
+- GitHub: https://github.com/yourusername
